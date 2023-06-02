@@ -6,4 +6,4 @@ edition = "2021"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-cargo_ice_repo_2 = { git = "https://github.com/jmpesp/cargo_ice_repo_2", "rev" = "c78e53a85c68fdf158defaf6e8c23151f73b009c" }
+cargo_ice_repo_2 = { git = "https://github.com/jmpesp/cargo_ice_repo_2", "rev" = "841d6fc905a14f6920ccc1857c755481240029e0" }
