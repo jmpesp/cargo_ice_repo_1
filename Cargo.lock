@@ -29,3 +29,7 @@ dependencies = [
 name = "cargo_ice_repo_2"
 version = "0.1.0"
 source = "git+https://github.com/jmpesp/cargo_ice_repo_2?rev=c78e53a85c68fdf158defaf6e8c23151f73b009c#c78e53a85c68fdf158defaf6e8c23151f73b009c"
+
+[[package]]
+name = "submod"
+version = "0.1.0"

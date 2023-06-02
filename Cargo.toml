@@ -3,7 +3,10 @@ name = "cargo_ice_repo_1"
 version = "0.1.0"
 edition = "2021"
 
+[workspace]
+members = ["submod"]
+
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-cargo_ice_repo_2 = { git = "https://github.com/jmpesp/cargo_ice_repo_2", "rev" = "841d6fc905a14f6920ccc1857c755481240029e0" }
+cargo_ice_repo_2 = { git = "https://github.com/jmpesp/cargo_ice_repo_2", rev = "841d6fc905a14f6920ccc1857c755481240029e0" }
