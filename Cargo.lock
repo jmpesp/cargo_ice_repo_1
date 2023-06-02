@@ -5,7 +5,7 @@ version = 3
 [[package]]
 name = "binary"
 version = "0.1.0"
-source = "git+https://github.com/jmpesp/cargo_ice_repo_2?rev=149262b#149262bfb53b193791024c0da053d585e3d7eba2"
+source = "git+https://github.com/jmpesp/cargo_ice_repo_2?rev=2a37d73#2a37d73deb66757a3981ccb77f3c396d309587eb"
 dependencies = [
  "submod 0.1.0 (git+https://github.com/jmpesp/cargo_ice_repo_1?branch=main)",
 ]
