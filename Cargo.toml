@@ -10,4 +10,4 @@ members = ["submod"]
 
 [dependencies]
 submod = { path = "submod" }
-binary = { git = "https://github.com/jmpesp/cargo_ice_repo_2", rev = "fe92cb1" }
+binary = { git = "https://github.com/jmpesp/cargo_ice_repo_2", rev = "149262b" }
